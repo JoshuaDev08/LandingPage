@@ -1,10 +1,10 @@
 <template>
-    <div class="relative w-full h-[500px] sm:h-[600px] md:h-[800px] overflow-visible">
+    <div class="relative w-full h-[500px] sm:h-[600px] md:h-[700px] overflow-visible">
         <!-- Slanted card -->
         <div class="w-[280px] sm:w-[300px] md:w-[340px] max-w-full
                     h-full sm:h-[500px] md:h-[700px]
                     bg-white text-black z-[1000] rounded-sm shadow-md p-2
-                    mx-auto sm:relative md:relative lg:absolute lg:top-[-100px] lg:left-[450px] lg:-translate-x-1/2
+                    mx-auto sm:relative md:relative lg:absolute lg:top-[-90px] lg:left-[450px] lg:-translate-x-1/2
                     sm:rotate-[5deg] md:rotate-0 lg:rotate-[18deg] sm:origin-top-left md:origin-top-left lg:origin-top-left">
             <!-- Image frames -->
             <div class="mb-2 rounded-sm overflow-hidden h-1/4 sm:h-1/3 md:h-[200px]">
