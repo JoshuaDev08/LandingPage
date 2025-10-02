@@ -1,6 +1,6 @@
 <template>
     <div
-      class="absolute rounded-full pointer-events-none"
+      class="absolute rounded-full pointer-events-none overflow-hidden"
       :style="{
         width: width,
         height: height,
