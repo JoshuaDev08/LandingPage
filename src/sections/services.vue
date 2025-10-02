@@ -1,5 +1,5 @@
 <template >
-    <div class="relative w-full h-full sm:h-[900px] ">
+    <div class="relative w-full h-full md:h-[900px] sm:h-full">
         <div class="absolute inset-0 overflow-hidden z-0">
             <BlurCircle width="600px" height="600px" color="#D070FF" opacity="0.8" top="1%" left="100%" />
             <BlurCircle width="200px" height="200px" color="#D070FF" opacity="0.9" top="100%" left="0%" />
